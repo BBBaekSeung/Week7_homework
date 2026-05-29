@@ -1,0 +1,24 @@
+{
+  "domain": "emoji",
+  "version": "day5",
+  "prompt_style": {
+    "shot": "close-up",
+    "angle": "front view",
+    "lighting": "soft lighting",
+    "lens_or_style": "cute emoji style",
+    "mood": "bright, cheerful"
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "diary_sentence": "오늘은 즐거운 맛집탐방의 날이다.",
+      "visual_focus": "happy emoji eating delicious food",
+      "prompt_addons": [
+        "cute face",
+        "smiling expression",
+        "simple background"
+      ],
+      "negative_prompt": "text, watermark, blurry"
+    }
+  ]
+}
